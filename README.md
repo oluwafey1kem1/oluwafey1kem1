@@ -1,3 +1,5 @@
+<img src="./assets/header.svg" width="100%" alt="Ikey — UI/UX and web designer" />
+
 # Ikey — UI/UX & Web Designer
 
 I design and build clear, conversion-focused digital experiences for ambitious brands, founders and teams.
@@ -27,3 +29,17 @@ Thoughtful interaction, readable interfaces, fast-loading pages, accessible patt
 
 ---
 *Open to freelance projects, collaborations and interesting product work.*
+
+## Visual assets
+
+<img src="./assets/h-about.svg" width="100%" alt="About" />
+<img src="./assets/h-services.svg" width="100%" alt="Services" />
+<img src="./assets/services.svg" width="100%" alt="Services overview" />
+<img src="./assets/h-work.svg" width="100%" alt="Selected work" />
+<p align="center"><img src="./assets/work-tasable.svg" width="32%" alt="Tasable" /> <img src="./assets/work-arktos.svg" width="32%" alt="Arktos Health" /> <img src="./assets/work-melodi.svg" width="32%" alt="Melodi" /></p>
+<img src="./assets/h-lab.svg" width="100%" alt="The Lab" />
+<p align="center"><img src="./assets/lab-wa-enquiry.svg" width="49%" alt="WA Enquiry" /> <img src="./assets/lab-landing-audit.svg" width="49%" alt="Landing Audit" /></p>
+<p align="center"><img src="./assets/lab-palette-forge.svg" width="49%" alt="Palette Forge" /> <img src="./assets/lab-framer-kit.svg" width="49%" alt="Framer Kit" /></p>
+<img src="./assets/h-process.svg" width="100%" alt="How I work" />
+<img src="./assets/process.svg" width="100%" alt="Process" />
+<img src="./assets/footer.svg" width="100%" alt="Book a project" />
